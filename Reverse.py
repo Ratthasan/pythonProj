@@ -17,3 +17,4 @@ def reverse_string(word):
     return str_reverse
 
 print(reverse_string("Hello world!"))
+#output !dlrow olleH
